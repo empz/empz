@@ -4,9 +4,6 @@ frontend techniques to backend architecture design and dev-ops pipelines. Passio
 
 🏖️ When I'm not doing software stuff,  I'm usually at the beach playing beach volleyball 🏐 or doing some scuba diving 🤿
 
-💞️ I'm looking to be part of an amazing team at a fully remote and async company.
-
-
 <!---
 empz/empz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
