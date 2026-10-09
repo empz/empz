@@ -1,8 +1,12 @@
-👋 Hi, I'm @empz (Emiliano Parizzi), a full stack software engineer, team lead and solo founder with over 20 years of experience designing, developing, and deploying
-software. Experienced in leading remote teams to build, test and deploy robust and maintainable systems. Skilled in the whole spectrum of software development, from advanced
-frontend techniques to backend architecture design and dev-ops pipelines. Passionate about learning, adopting cutting-edge technologies and optimizing the remote-based workflow.
+👋 Hi, I'm Emiliano Parizzi (@empz)
 
-🏖️ When I'm not doing software stuff,  I'm usually at the beach playing beach volleyball 🏐 or doing some scuba diving 🤿
+🎤 Founder of [MyKaraoke Video](https://www.mykaraoke.video)
+
+I'm the solo founder of MyKaraoke Video - a platform that turns any song into a professional karaoke or lyric video. AI-powered vocal separation, automatic synced lyrics, and studio-quality rendering, all in your browser.
+
+I'm a full stack software engineer with over 20 years of experience designing, developing, and deploying software - from advanced frontend techniques to backend architecture and dev-ops pipelines. These days I'm all-in on indie hacking and building in public.
+
+🏖️ When I'm not doing software stuff, I'm usually at the beach playing beach volleyball 🏐 or scuba diving 🤿
 
 <!---
 empz/empz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
